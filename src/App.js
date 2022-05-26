@@ -13,7 +13,7 @@ function App() {
 			<Navbar />
 			<FloatingCart />
 			<Switch>
-				<Route exact path='/' component={Home} />
+				<Route exact path='/Ecommerce-react' component={Home} />
 				<Route exact path='/produits' component={Products} />
 				<Route
 					exact
