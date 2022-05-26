@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/julescynamon/Ecommerce-react/static/css/main.158dab94.chunk.css",
+    "main.js": "/julescynamon/Ecommerce-react/static/js/main.2e9f0d85.chunk.js",
+    "main.js.map": "/julescynamon/Ecommerce-react/static/js/main.2e9f0d85.chunk.js.map",
+    "runtime-main.js": "/julescynamon/Ecommerce-react/static/js/runtime-main.9b36c6bc.js",
+    "runtime-main.js.map": "/julescynamon/Ecommerce-react/static/js/runtime-main.9b36c6bc.js.map",
+    "static/js/2.8dc35b40.chunk.js": "/julescynamon/Ecommerce-react/static/js/2.8dc35b40.chunk.js",
+    "static/js/2.8dc35b40.chunk.js.map": "/julescynamon/Ecommerce-react/static/js/2.8dc35b40.chunk.js.map",
+    "index.html": "/julescynamon/Ecommerce-react/index.html",
+    "static/css/main.158dab94.chunk.css.map": "/julescynamon/Ecommerce-react/static/css/main.158dab94.chunk.css.map",
+    "static/js/2.8dc35b40.chunk.js.LICENSE.txt": "/julescynamon/Ecommerce-react/static/js/2.8dc35b40.chunk.js.LICENSE.txt",
+    "static/media/heart.c31d61db.svg": "/julescynamon/Ecommerce-react/static/media/heart.c31d61db.svg",
+    "static/media/shopimg.2c7ddfae.jpg": "/julescynamon/Ecommerce-react/static/media/shopimg.2c7ddfae.jpg",
+    "static/media/shopping-cart.25d65fd4.svg": "/julescynamon/Ecommerce-react/static/media/shopping-cart.25d65fd4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b36c6bc.js",
+    "static/js/2.8dc35b40.chunk.js",
+    "static/css/main.158dab94.chunk.css",
+    "static/js/main.2e9f0d85.chunk.js"
+  ]
+}
